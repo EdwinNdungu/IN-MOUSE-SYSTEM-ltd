@@ -1,0 +1,66 @@
+.nav-link{
+    border-radius: 30px;
+}
+
+
+
+#home{
+    background-color: rgb(186, 179, 179);
+    padding-top: 45px;
+    
+}
+
+.landing1{
+    
+    height: 500px;
+    text-align: center;
+    padding: 30px;
+}
+.landing2{
+    height: 500px;
+    padding: 30px;
+}
+
+
+#about{
+    padding-top: 45px;
+    background-color: white;
+    text-align: center;
+}
+.aboutcontainer{
+    height: 500px;
+}
+.aboutclass{
+    align-content: center;
+}
+
+
+#services{
+    padding-top: 45px;
+    background-color: rgb(186, 179, 179);
+    
+}
+
+
+#contacts{
+    padding-top: 45px;
+    background-color: blue;
+    height: 600px;
+}
+
+#footer{
+    text-align: center;
+}
+
+
+
+
+@media (max-width: 994px) {
+    .navbar-nav{
+        text-align: center;
+
+    }
+    .headerimg{
+        max-width: 270px;
+    }
+}
