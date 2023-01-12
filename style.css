@@ -43,8 +43,9 @@
 
 
 #contacts{
+    text-align: center;
     padding-top: 45px;
-    background-color: blue;
+    background-color: white;
     height: 600px;
 }
 
