@@ -36,9 +36,15 @@
 
 
 #services{
-    padding-top: 45px;
+    padding-top: 30px;
     background-color: rgb(186, 179, 179);
+    text-align: center;
+    padding-bottom: 30px;
+    padding-left: 10px;
     
+}
+.card-title h5{
+    font-weight: bold;
 }
 
 
@@ -51,6 +57,7 @@
 
 #footer{
     text-align: center;
+    background-color: rgb(186, 179, 179);
 }
 
 
@@ -61,7 +68,5 @@
         text-align: center;
 
     }
-    .headerimg{
-        max-width: 270px;
-    }
+    
 }
