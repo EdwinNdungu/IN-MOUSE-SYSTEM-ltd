@@ -5,8 +5,9 @@
 
 
 #home{
-    background-color: rgb(186, 179, 179);
+    background-color: #00337f ;
     padding-top: 45px;
+    color: white;
     
 }
 
@@ -20,10 +21,23 @@
     height: 500px;
     padding: 30px;
 }
+.content{
+    width: 100%;
+   height: 100%;
+    display: flex;
+    align-items: center;
+    
+}
+.headingcontent{
+    color: rgba(255, 255, 0, 0.986);
+}
+.headerimg{
+    padding-top: 20px;
+}
 
 
 #about{
-    padding-top: 45px;
+    padding-top: 82px;
     background-color: white;
     text-align: center;
 }
@@ -34,10 +48,9 @@
     align-content: center;
 }
 
-
 #services{
     padding-top: 30px;
-    background-color: rgb(186, 179, 179);
+    background-color: #00337f;
     text-align: center;
     padding-bottom: 30px;
     padding-left: 10px;
@@ -50,15 +63,26 @@
 
 
 #contacts{
-    text-align: center;
     padding-top: 45px;
     background-color: white;
-    height: 600px;
+    
 }
-
-#footer{
+.form{
+    background-color: white;
+    padding: 70px;
+}
+.contactbar{
+    color: white;
+    background-color: #00337f;
+}
+.contactbar h2 {
     text-align: center;
-    background-color: rgb(186, 179, 179);
+    color: black;
+}
+#footer{
+    color: white;
+    text-align: center;
+    background-color: #00337f;
 }
 
 
