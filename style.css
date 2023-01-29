@@ -63,13 +63,24 @@
 
 
 #contacts{
-    text-align: center;
     padding-top: 45px;
     background-color: white;
-    height: 600px;
+    
 }
-
+.form{
+    background-color: white;
+    padding: 70px;
+}
+.contactbar{
+    color: white;
+    background-color: #00337f;
+}
+.contactbar h2 {
+    text-align: center;
+    color: black;
+}
 #footer{
+    color: white;
     text-align: center;
     background-color: #00337f;
 }
